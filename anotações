@@ -1,0 +1,23 @@
+@material-ui/core@4.11.0
++ sass@1.26.11
+
+next 
+react
+ract-dom
+
+     
+Baixar o nodejs:
+https://nodejs.org
+ 
+Baixar o Visual Studio Code:
+https://code.visualstudio.com/
+ 
+Endereço para colar dentro do arquivo _document.js:
+ 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+ 
+Foto utilizada:
+https://s3-sa-east-1.amazonaws.com/imc.sejadev.com/medic.png
+ 
+Documentação do material ui:
+https://material-ui.com

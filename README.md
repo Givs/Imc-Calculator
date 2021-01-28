@@ -16,6 +16,7 @@ Você pode acessar o projeto nesse link: https://imc-calculator.givs.vercel.app/
 # 🚀Tecnologias Utilizadas 
 - [React JS](https://pt-br.reactjs.org/)
 - [Next.JS](https://nextjs.org/)
+- [Material-UI](https://material-ui.com/pt/)
 
 ---
 

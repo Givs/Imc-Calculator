@@ -10,7 +10,7 @@
 
 # 📖Sobre
 O projeto **IMC Calculator** é uma simples calculadora de IMC feita com o objetivo de testar o potencial do ReactJS juntamente com o NextJS em uma aplicação frontend.
-
+Você pode acessar o projeto nesse link: https://imc-calculator.givs.vercel.app/
 ---
 
 # 🚀Tecnologias Utilizadas 
